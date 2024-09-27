@@ -30,7 +30,7 @@ def main():
             break
         elif choix == 4:
             num1, num2 = demander_valeurs()
-            if num1 != 0:
+            if num2 != 0:
                 resultat = num1 / num2
                 print(f"La division de {num1}, et {num2} est : {resultat}")
             else:

@@ -1,4 +1,3 @@
-# Déclaration des listes pour stocker les informations
 prenom = []
 nom = []
 note = []
